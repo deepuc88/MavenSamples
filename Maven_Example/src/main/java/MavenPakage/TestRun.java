@@ -6,7 +6,7 @@ public class TestRun
 	public void reverse(int a, int b)
 	{
 		int sum = a + b;
-		System.out.println(sum);
+		System.out.println("Sum of two numbers :"+sum);
 	}
 	public static void main(String[] args) 
 	{
